@@ -55,7 +55,7 @@
   font-weight: bold;
 }
 
-.header__content {
+.header__title_wrapper {
   z-index: 1;
   display: flex;
   justify-content: space-between;
