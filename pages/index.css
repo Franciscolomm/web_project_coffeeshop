@@ -123,22 +123,22 @@
 .header__hours {
   display: flex;
   flex-direction: column;
+  margin-bottom: 40px;
 }
 
-.header__footer__list {
+.header__paragraph {
   list-style: none;
   padding: 0;
   margin: 0;
-}
-
-.header__footer__list-item {
   margin-bottom: 4px;
 }
+
 
 .header__address {
   margin-top: auto;
   display: flex;
   align-items: flex-end;
+  margin-bottom: 40px;
 }
 
 .recipes {
